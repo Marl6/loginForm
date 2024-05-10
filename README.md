@@ -1,5 +1,5 @@
-Flask Web Application README
-This repository contains the code for a Flask web application that consists of a login page and a homepage.
+**Flask Web Application README
+**This repository contains the code for a Flask web application that consists of a login page and a homepage.
 
 Description
 The application is built using the Flask framework in Python. It includes two routes:
